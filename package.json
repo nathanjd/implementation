@@ -15,7 +15,7 @@
   "license": "ISC",
   "dependencies": {
     "@nathanjd/globals": "",
-    "@nathanjd/foo": "",
+    "@nathanjd/foo": "1.0.3",
     "@nathanjd/baz": "",
     "@nathanjd/bar": ""
   },

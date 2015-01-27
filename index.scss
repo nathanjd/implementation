@@ -4,3 +4,14 @@
 @import 'node_modules/@nathanjd/bar/bar';
 @import 'node_modules/@nathanjd/foo/foo';
 @import 'node_modules/@nathanjd/baz/baz';
+
+.implementation {
+	margin: 20px;
+	padding: 20px;
+	border: 1px solid #ccc;
+	color: $body-color;
+
+	h1 {
+		color: $header-color;
+	}
+}

@@ -8,6 +8,7 @@ $(function () {
         baz = new Baz();
 
     $content.html('<div class="implementation">' +
+    	'<h1>Implementation</h1>' +
         foo.toHTML() +
         baz.toHTML() +
     '</div>');
